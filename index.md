@@ -19,9 +19,9 @@
 - Sales from online channels have shown a significant increase over the past year, with a 15% growth rate and a total of $5.8 million in revenue generated through this channel.
 - The most profitable customer segments are from the Pacific region, generating a total of $6.2 million in revenue, followed by the South Atlantic and Mountain regions.
 - A key finding from the analysis is that the company's marketing campaign focusing on discounting products has not been effective, as the revenue generated from discounted products only accounts for 7% of the total revenue. It may be more effective to focus on other marketing strategies to increase sales.
-<img src="Screenshot 2023-10-17 153313.png?raw=true"/>
-<img src="Screenshot 1.png?raw=true"/>
-<img src="Screenshot 3.png?raw=true"/>
+<img src="images/Screenshot 2023-10-17 153313.png?raw=true"/>
+<img src="images/Screenshot 1.png?raw=true"/>
+<img src="images/Screenshot 3.png?raw=true"/>
 
 ---
 
